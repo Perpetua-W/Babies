@@ -114,11 +114,6 @@ section {
   width: 100%;
   object-fit: cover;
 }
-.my_background .column-right {
-  float: left;
-  width: 50%;
-}
-
 
 .dedication {
   padding-top: 10px;
