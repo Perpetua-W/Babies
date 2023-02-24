@@ -48,13 +48,194 @@ section {
   color: black;
   text-transform: uppercase;
   font-size: 15px;
+
 }
 
 .navlinks li a:hover {
   color: orange;
 }
+
+.N-Cubed {
+  padding: 0px 30px;
+  background: rgba(255, 52, 52, 0.039);
+}
+
+.N-Cubed div {
+  display: flex;
+}
+
+.left {
+  width: 60%;
+}
+
+.left ul li {
+  list-style-type: disc;
+}
+
+.right {
+  width: 40%;
+}
+
+/* this is for making responsive images */
+.right img {
+  width: 100%;
+  object-fit: cover;
+}
+
+.left {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+.left h1 {
+  font-size: 50 px;
+  color: rgb(255, 52, 52);
+}
+
+.Nathan {
+  padding: 30px 30px;
+  background: rgba(220, 218, 247, 0.989);
+}
+
+.Nathan h2 {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.Nathan {
+  display: flex;
+}
+
+.left2 {
+  width: 40%;
+}
+
+
+.right2 {
+  width: 60%;
+}
+
+.right2 div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
   
+}
+
+.left2 img {
+  width: 100%;
+  object-fit: cover;
+}
+.Nataniela {
+  padding: 30px 30px;
+  background: rgba(255, 52, 52, 0.039);
+}
+
+.Nataniela h2 {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.Nataniela {
+  display: flex;
+}
+
+.left3 {
+  width: 40%;
+}
+
+
+.right3 {
+  width: 60%;
+}
+
+.right2 div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
   
+}
+
+.left2 img {
+  width: 100%;
+  object-fit: cover;
+}
+
+.Noah {
+  padding: 30px 30px;
+  background: rgba(220, 218, 247, 0.989);
+}
+
+.Noah h2 {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.Noah {
+  display: flex;
+}
+
+.left4 {
+  width: 60%;
+}
+
+
+.right4 {
+  width: 40%;
+}
+
+.right4 div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
   
- 
-  
+}
+
+.left3 img {
+  width: 100%;
+  object-fit: cover;
+}
+.dedication {
+  padding-top: 10px;
+  background: rgba(255, 52, 52, 0.039);
+}
+
+.dedication {
+  display: flex;
+}
+
+.dedication h2 {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.dedication div {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.dedication img {
+  width: 100%;
+  object-fit: cover;
+}
+
+
+
+h2{
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+section{
+  padding: 0rem 2rem;
+}
