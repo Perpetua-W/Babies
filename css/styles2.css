@@ -124,13 +124,14 @@ section {
   align-items: center;
   justify-content: center;
   gap: 20px;
-  
+
 }
 
 .left2 img {
   width: 100%;
   object-fit: cover;
 }
+
 .Nataniela {
   padding: 30px 30px;
   background: rgba(255, 52, 52, 0.039);
@@ -160,7 +161,7 @@ section {
   align-items: center;
   justify-content: center;
   gap: 20px;
-  
+
 }
 
 .left2 img {
@@ -197,13 +198,14 @@ section {
   align-items: center;
   justify-content: center;
   gap: 20px;
-  
+
 }
 
 .left3 img {
   width: 100%;
   object-fit: cover;
 }
+
 .dedication {
   padding-top: 10px;
   background: rgba(255, 52, 52, 0.039);
@@ -231,11 +233,11 @@ section {
 
 
 
-h2{
+h2 {
   text-align: center;
   margin-bottom: 1rem;
 }
 
-section{
+section {
   padding: 0rem 2rem;
 }
